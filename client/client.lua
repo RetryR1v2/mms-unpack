@@ -1,0 +1,1 @@
+local VORPcore = exports.vorp_core:GetCore()
